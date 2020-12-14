@@ -1,0 +1,9 @@
+.project-card {
+  -webkit-transition: background-color 0.5s ease;
+  transition: background-color 0.5s ease;
+}
+
+.project-card:hover {
+  background-color: #f7f7f7;
+}
+/*# sourceMappingURL=applications.css.map */
